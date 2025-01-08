@@ -2,4 +2,4 @@
 
 ## Subhead Thing ##
 
-*Italics Text *
+* Italics Text *
